@@ -1,0 +1,13 @@
+.venv/
+bidcoin/
+__pycache__/
+*.pyc
+.DS_Store
+build/
+*.dylib
+.pytest_cache/
+wallet.json
+burner_wallet.json
+config.toml
+mining.log
+csrc/metal/kernels_embedded.h
